@@ -7,5 +7,5 @@ public class MemoRequestDto {
 
     private String title;
     private String contents;
-
+    private String pass;
 }

@@ -9,7 +9,6 @@ import lombok.Setter;
 @AllArgsConstructor
 public class Memo {
 
-    @Setter
     private Long id;
     private String title;
     private String contents;
